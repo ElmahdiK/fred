@@ -1,6 +1,6 @@
 pipeline {
     environment {
-        registry = 'ek91/fred'
+        registry = 'ek91/filrouge'
         registryCredential = 'ek91'
         dockerImage = ''
     }
